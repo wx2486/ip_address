@@ -1,2 +1,2 @@
 I post my dynamic ip adress here.
-It will be automaticly updated.
+It will be automaticlly updated.
